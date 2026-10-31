@@ -27,7 +27,9 @@ An end-to-end retail sales analytics project using Excel, SQL and Power BI to ex
 
 ### 🎓 Education & Professional Development
 
-- Master's in Marketing Management – UNISA
+- Master's in Marketing Management – The University of South Africa
+- Bachelor of Commerce Honours - The University of Witwatersrand
+- Bachelor of Commerce - The University of Witwatersrand
 - Data Analytics – ALX
 - AI Career Essentials – ALX
 - Data Engineering – ALX (in progress)
